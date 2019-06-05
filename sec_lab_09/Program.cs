@@ -31,13 +31,13 @@ namespace sec_lab_09
                         //new Exercise2();
                         break;
                     case (int)Excercises.THIRD:
-                        //new Exercise2();
+                        new Exercise3();
                         break;
                     case (int)Excercises.FOURTH:
-                        //new Exercise4();
+                        new Exercise4();
                         break;
                     case (int)Excercises.FIFTH:
-                        //new Exercise5();
+                        new Exercise5();
                         break;
                     default:
                         Console.WriteLine("It's too much");
