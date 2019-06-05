@@ -1,0 +1,7 @@
+C:\MainFiles\projects\university\programming\labs\sec_lab_08\bin\Debug\sec_lab_08.exe.config
+C:\MainFiles\projects\university\programming\labs\sec_lab_08\bin\Debug\sec_lab_08.exe
+C:\MainFiles\projects\university\programming\labs\sec_lab_08\bin\Debug\sec_lab_08.pdb
+C:\MainFiles\projects\university\programming\labs\sec_lab_08\obj\Debug\sec_lab_08.csprojAssemblyReference.cache
+C:\MainFiles\projects\university\programming\labs\sec_lab_08\obj\Debug\sec_lab_08.csproj.CoreCompileInputs.cache
+C:\MainFiles\projects\university\programming\labs\sec_lab_08\obj\Debug\sec_lab_08.exe
+C:\MainFiles\projects\university\programming\labs\sec_lab_08\obj\Debug\sec_lab_08.pdb
