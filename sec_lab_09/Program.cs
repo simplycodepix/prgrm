@@ -28,7 +28,7 @@ namespace sec_lab_09
                         new Exercise1();
                         break;
                     case (int)Excercises.SECOND:
-                        //new Exercise2();
+                        new Exercise2();
                         break;
                     case (int)Excercises.THIRD:
                         new Exercise3();
